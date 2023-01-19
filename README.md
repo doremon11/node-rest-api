@@ -44,6 +44,19 @@ using postman for unfollowing a user
 database 
 ![Data _ Cloud_ MongoDB Cloud (6)](https://user-images.githubusercontent.com/72811328/213374159-fa087cae-f86b-4285-8e6c-58df6fa662f4.png)
 
+# unlike a post 
+![Data _ Cloud_ MongoDB Cloud (7)](https://user-images.githubusercontent.com/72811328/213374758-557132e3-4727-462a-8714-f0ddb76c784c.png)
+# adding comment on post 
+using postman to add a comment
+![MyScreen19-01-2023_11_55_23](https://user-images.githubusercontent.com/72811328/213374925-6cbefd89-b9b4-4c7a-af3d-684741cff70e.jpg)
+database 
+![Data _ Cloud_ MongoDB Cloud (4)](https://user-images.githubusercontent.com/72811328/213375157-d9577bb8-85a7-4a41-962e-0b2ebd9dda50.png)
+
+# delete user 
+using postman to delete user 
+![MyScreen19-01-2023_12_26_15](https://user-images.githubusercontent.com/72811328/213375915-184d19dc-01bb-4917-b2b1-ded4455f3e33.jpg)
+
+
 
 
 
